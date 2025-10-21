@@ -86,4 +86,9 @@ This project **automated the entire ETL workflow**, improving **data accuracy**,
 ### 🏷️ Tags  
 `AWS` `Data Engineering` `ETL` `Automation` `Lambda` `Glue` `Redshift` `Cloud` `Data Pipeline`  
 
+## 👨‍💻 Author
+
+**Sai Harshith Reddy Gaddamidhi**  
+
+
 
